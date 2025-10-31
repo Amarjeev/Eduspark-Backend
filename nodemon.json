@@ -1,0 +1,12 @@
+{
+  "ignore": [
+    "uploads/",
+    "*.log",
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.tmp",
+    ".cache/",
+    "node_modules/"
+  ]
+}
